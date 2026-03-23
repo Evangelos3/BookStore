@@ -1,0 +1,5 @@
+id,username,password,address,city,orders,favorites,balance
+1,user1,pass1,Street 1,City A,[],[2],100.0
+2,user2,pass2,Street 2,City B,[],[],150.0
+3,admin,admin123,Admin Street,Admin City,[],[],1000.0
+4,user123,pass123!,lamia,lamia,[],[],100.0
